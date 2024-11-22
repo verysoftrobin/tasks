@@ -1,2 +1,3 @@
 # 작업
-### [github blog 만들기](./githubblog/githubblog.md)
+### 1. [GitHub blog 만들기](./blogs/githubblog.md)
+### 2. [GitHub + vscode 연동](./blogs/githubvscode.md)
